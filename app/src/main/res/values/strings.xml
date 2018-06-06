@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Freeze</string>
+    <string name="msg_no_access">Device has no ROOT access.</string>
+    <string name="lbl_cancel">Cancel</string>
+    <string name="lbl_de_freez">De-Freeze</string>
+    <string name="lbl_freez">Freeze</string>
+</resources>
